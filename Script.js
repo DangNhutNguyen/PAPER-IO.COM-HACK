@@ -1,22 +1,3 @@
- 
-Greasy Fork
-DangNhutNguyen [ Sign out ] 
-English (en)
-Scripts Forum Help More
-Info
-Code
-History
-Feedback (0)
-Stats
-Derivatives
-Update
-Delete
-Admin
-Paper.IO by DangNhutNguyen
-Zoom hack, game speed change hack, instant movement hack, and pause/resume functionality.
-
-Install this script?
-Ask a question, post a review, or report the script.
 // ==UserScript==
 // @name Paper.IO by DangNhutNguyen
 // @namespace -
