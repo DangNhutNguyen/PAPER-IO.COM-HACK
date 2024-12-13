@@ -11,7 +11,7 @@ This is a user script for modifying the gameplay of **Paper.io**. It introduces 
   
 ## Installation
 
-To use this script, you need a **UserScript manager** like [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/) installed in your browser.
+To use this script, you need a **UserScript manager** like [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey]([https://www.greasespot.net/](https://greasyfork.org/en/scripts/502044-paper-io-by-dangnhutnguyen)) installed in your browser.
 
 ### Steps to Install:
 
