@@ -1,4 +1,4 @@
-# Paper.IO Script by DangNhutNguyen
+# Paper.IO Script by DangNhutNguyen - 915080
 
 This is a user script for modifying the gameplay of **Paper.io**. It introduces several game hacks, including the ability to change the game speed, zoom in and out, and perform instant movements in the game. This script is designed for educational purposes and should be used as a tool to help develop programming skills.
 
